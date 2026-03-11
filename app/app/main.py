@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-from ai_engine import AIEngine
+from ai_engine.py import AIEngine
 
 st.set_page_config(layout="wide")
 
